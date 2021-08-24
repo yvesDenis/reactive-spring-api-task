@@ -72,3 +72,7 @@ The integration test was done with **WebTestClient**
 		Assertions.assertEquals(2,foos.size());
 	}
 ```
+The app has been deployed to Heroku and the two endpoints are available through these urls:
+    
+    . https://murmuring-sierra-82507.herokuapp.com/foo/get
+    . https://murmuring-sierra-82507.herokuapp.com/see/foo/get
