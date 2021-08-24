@@ -75,4 +75,4 @@ The integration test was done with **WebTestClient**
 The app has been deployed to Heroku and the two endpoints are available through these urls:
     
     . https://murmuring-sierra-82507.herokuapp.com/foo/get
-    . https://murmuring-sierra-82507.herokuapp.com/see/foo/get
+    . https://murmuring-sierra-82507.herokuapp.com/sse/foo/get
